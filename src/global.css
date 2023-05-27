@@ -1,0 +1,42 @@
+.defaultRequired{
+    color: red;
+}
+
+.tools {
+    display: flex;
+    height: 30px;
+    bottom: 0px;
+    top: 0;
+    /* justify-content: end; */
+}
+
+.input-search {
+    display: flex;
+    height: 28px;
+    top: 0;
+    bottom: 0px;
+    justify-content: end;
+}
+
+.add {
+    display: flex;
+    height: 28px;
+    top: 0;
+    bottom: 0px;
+    justify-content: end;
+    width: 50px;
+    text-underline-position: above;
+}
+
+.card {
+    box-shadow: 5px 5px 5px rgb(59, 58, 58);
+    margin-right: 10px;
+}
+
+.table-details {
+    background: #b4afaf;
+}
+
+.clickable {
+    cursor: pointer;
+}
